@@ -75,3 +75,8 @@ vvp connect4_tb
 - `whos[41:0]`: 棋子所屬玩家
 
 索引計算: `index = row * 7 + col`
+<img width="1138" height="1048" alt="螢幕擷取畫面 2025-12-14 154622" src="https://github.com/user-attachments/assets/88c8af24-a672-4367-9e30-013ab2b25ce0" />
+
+
+
+
